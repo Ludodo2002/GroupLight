@@ -1,0 +1,8 @@
+name: GroupLight
+version: '${project.version}'
+main: fr.redcraft.Main
+api-version: 1.18
+authors: [ _Raidcraft ]
+description: Plugin for create group light
+commands:
+  grouplight:
